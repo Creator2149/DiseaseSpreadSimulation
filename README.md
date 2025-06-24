@@ -54,6 +54,7 @@ This simulation aligns with the theme _"An Imperfect World"_ by showcasing how h
 **Agent Sprites** - Created with assistance from [ChatGPT](chat.openai.com), recoloured by me (Rishit Choudhary)
 **Virus Icon** - By Freepik via [Flaticon](flaticon.com)
 **Font** - Roboto from [Google Fonts](fonts.google.com)
+**Code** - by me (Rishit Choudhary), partial documentation (adding comments and the like) by [ChatGPT](chat.openai.com)
 
 ## License
 
