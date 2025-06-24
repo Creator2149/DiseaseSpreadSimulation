@@ -58,7 +58,6 @@ This simulation aligns with the theme _"An Imperfect World"_ by showcasing how h
 ├── dead.png
 ├── virus.png
 ├── Roboto.ttf
-├── icon.ico
 └── README.md
 
 ## Credits
