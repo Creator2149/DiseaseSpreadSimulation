@@ -1,7 +1,5 @@
 # Disease Spread Simulation
 
-A Python-based Pygame simulation that models how a disease spreads through a population — accounting for movement, socioeconomic inequality, and probabilistic infection and recovery.
-
 This is a Python-based Pygame simulation that models how a disease spreads through a population. This is determined based on the random movement of the people ("agents" in the simulation), as well as accounting for the factor of their socioeconomic status (based on data for India).
 
 ## Current Features
