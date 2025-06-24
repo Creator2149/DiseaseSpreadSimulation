@@ -35,7 +35,7 @@ This simulation aligns with the theme _"An Imperfect World"_ by showcasing how h
 
 ## How to Run
 
-1. Make sure [Python](python.org)p 3.8+ is installed.
+1. Make sure [Python](python.org) 3.8+ is installed.
 2. Install [Pygame](pygame.org) through the command prompt if not installed already:
    
    ```bash
@@ -51,7 +51,7 @@ This simulation aligns with the theme _"An Imperfect World"_ by showcasing how h
 
 ## Credits
 
-**Agent Sprites** - Created with assistance from ChatGPT, recoloured by me (Rishit Choudhary)
+**Agent Sprites** - Created with assistance from [ChatGPT](chat.openai.com), recoloured by me (Rishit Choudhary)
 **Virus Icon** - By Freepik via [Flaticon](flaticon.com)
 **Font** - Roboto from [Google Fonts](fonts.google.com)
 
