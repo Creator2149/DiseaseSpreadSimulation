@@ -39,26 +39,17 @@ This simulation aligns with the theme _"An Imperfect World"_ by showcasing how h
 
 1. Make sure [Python](python.org)p 3.8+ is installed.
 2. Install [Pygame](pygame.org) through the command prompt if not installed already:
+   
    ```bash
    pip install pygame
    ```
 3. Clone or download this repository
 4. Navigate to the folder with DiseaseSpreadSim.py in your terminal
 5. Run the simulation from the command prompt:
+   
    ```bash
    python DiseaseSpreadSim.py
    ```
-
-## File Structure
-
-├── main.py
-├── healthy.png
-├── infected.png
-├── recovered.png
-├── dead.png
-├── virus.png
-├── Roboto.ttf
-└── README.md
 
 ## Credits
 
