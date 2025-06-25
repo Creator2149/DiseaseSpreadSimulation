@@ -344,22 +344,11 @@ while True:
         screen.blit(text_surface, text_rect)
 
         if hovered and click[0]:
-            show_instructions = False
+            show_instructions = True
             simulation_over = False
-            spawn_flag = True
+            spawn_flag = False
 
             agents.empty()
-
-            num_infected_at_start = max(1, int(0.08 * agent_count + randint(0, 2)))
-            num_healthy_at_start = agent_count - num_infected_at_start
-
-            for _ in range(num_infected_at_start):
-                agent = Agent()
-                agent.change_status("infected")
-                agents.add(agent)
-
-            for _ in range(num_healthy_at_start):
-                agents.add(Agent())
 
 
     pygame.display.update()
